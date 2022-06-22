@@ -4,22 +4,22 @@ backend/node_modules
 
 
 # testing
-homerental/coverage
+backend/coverage
 
 # production
-homerental/build
+backend/build
 yarn-error.log*
 
 
-homerental/node_modules
-homerental/.pnp
-homerental/*.pnp.js
+frontend_react/node_modules
+frontend_react/.pnp
+frontend_react/*.pnp.js
 
 # testing
-homerental/coverage
+frontend_react/coverage
 
 # production
-homerental/build
+frontend_react/build
 
 # misc
 *.DS_Store
