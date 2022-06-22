@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "backend": {
+      "name": "backend",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "homerental": {
+      "name": "homerental",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "requirements": {
+      "name": "requirements",
+      "isOrdered": true,
+      "folders": {
+        "mockups": {
+          "name": "mockups",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "technologie": 0,
+        "projekt_beschreibung": 1
+      }
+    }
+  },
+  "files": {}
+}
