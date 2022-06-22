@@ -1,0 +1,33 @@
+
+backend/node_modules
+
+
+
+# testing
+homerental/coverage
+
+# production
+homerental/build
+yarn-error.log*
+
+
+homerental/node_modules
+homerental/.pnp
+homerental/*.pnp.js
+
+# testing
+homerental/coverage
+
+# production
+homerental/build
+
+# misc
+*.DS_Store
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+*npm-debug.log*
+*yarn-debug.log*
+*yarn-error.log*
